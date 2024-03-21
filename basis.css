@@ -1,0 +1,19 @@
+.img1{width:400px;margin:40px;
+    }
+footer{text-align: center;
+    color:red;
+    border: 8px groove lawngreen;
+    padding: 40px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 60px;}
+.info{text-align: center;
+background-color: lawngreen;
+border:10px outset lawngreen;
+padding:20px;
+color: red;}
+.title{text-align: center;
+color: lawngreen;}
+
+p{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 40px;}
+body{background-color: black;text-align: center;}
