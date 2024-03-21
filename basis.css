@@ -17,3 +17,7 @@ color: lawngreen;}
 p{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 font-size: 40px;}
 body{background-color: black;text-align: center;}
+.seaerch-input{font-size:30px;}
+::placeholder{font-family: fantasy;
+font-size: 15px;
+color:red}
