@@ -1,14 +1,15 @@
-.img1{width:400px;margin:40px;
+.img1{width:600px;margin:40px;
     }
 footer{text-align: center;
     color:red;
-    border: 8px groove lawngreen;
+    border: 8px groove rgb(238, 21, 14);
     padding: 40px;
+    border-radius: 20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: 60px;}
 .info{text-align: center;
 background-color: lawngreen;
-border:10px outset lawngreen;
+border:10px outset rgb(203, 49, 49);
 padding:20px;
 color: red;}
 .title{text-align: center;
@@ -17,7 +18,19 @@ color: lawngreen;}
 p{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 font-size: 40px;}
 body{background-color: black;text-align: center;}
-.seaerch-input{font-size:30px;}
+
+.img1{border: 8px groove red;
+padding: 20px;
+border-radius: 30px;
+background-color: rgb(21, 106, 21),;
+}
+
 ::placeholder{font-family: fantasy;
 font-size: 15px;
-color:red}
+color:red;
+background-color:black;}
+
+.img2,.img3{width:40px;}
+
+.img4{width:300px}
+

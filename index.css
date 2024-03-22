@@ -1,14 +1,13 @@
 .container{
-    border: 8px inset #35ed3e;
+    border: 8px inset #ed4b4b;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     background-color: rgb(118, 229, 39);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
+    justify-content: space-evenly;
 }
-.search{
-    flex: 1;
-}
+
 @media all and (max-width: 600px){
   .container { flex-wrap: wrap;}
 
@@ -24,7 +23,7 @@
         flex: 1 1 100%;}
 }
 .search{
-    order:1;
+    order:;
 }
 
 li{list-style: none;}
